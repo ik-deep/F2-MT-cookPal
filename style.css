@@ -133,7 +133,7 @@ body {
   
     /* background-color: beige; */
 }
-.recipes_card:hover{
+.recipe-card:hover{
    transform: scale(1.02);
 }
 
